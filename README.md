@@ -1,0 +1,2 @@
+# configservice
+springcloud config
